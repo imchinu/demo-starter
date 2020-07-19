@@ -1,5 +1,4 @@
-#demo project README
+# Demo project README
 
 this is simple readme file 
 
-##  this should be it
